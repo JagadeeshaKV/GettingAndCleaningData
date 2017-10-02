@@ -20,16 +20,9 @@ The dataset being used is available at <https://d396qusza40orc.cloudfront.net/ge
 
 Following are the project files available in this repository.
 
-* CodeBook.md
-* run_analysis.R
-* tidydataset.txt
-
-  File Name    |              Description                                     |
----------------|--------------------------------------------------------------|
-CodeBook.md    | Describes the variables, data and data clean up process.
-run_analysis.R | Contains the source code for all 5 steps.
-tidydataset.txt| The output of the 5th step (Contains the tidy dataset).
-
+* ```CodeBook.md``` - Describes the variables, data and data clean up process.
+* ```run_analysis.R``` - Contains the source code for all 5 steps.
+* ```tidydataset.txt``` - The output of the 5th step (Contains the tidy dataset).
 
 #### run_analysis.R
 
